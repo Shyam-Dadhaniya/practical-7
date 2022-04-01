@@ -32,7 +32,7 @@ $ npm run build:production
 #### 5. For Staging Build:
 
 ```sh
-$ npm run build:production
+$ npm run build:
 ```
 #### 6. For Serve Build:
 
