@@ -1,8 +1,8 @@
 # Practical-7
 
 ## Live Demo Link:
-1. Netlify:
-2. Heroku:
+1. Netlify: https://user-list-react-application.netlify.app/
+2. Heroku:  https://user-list-react-application.herokuapp.com/
 
 ## User List App
 #### 1. Install NPM:
